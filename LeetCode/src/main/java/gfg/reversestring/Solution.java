@@ -1,8 +1,5 @@
 package main.java.gfg.reversestring;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Solution {
     public static String reverseString(String s) {
         StringBuilder sb = new StringBuilder();
